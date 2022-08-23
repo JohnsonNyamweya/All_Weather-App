@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">All-Weather</string>
+    <string name="search_places">Search Places</string>
+    <string name="date_hint">14 Aug, 16:17</string>
+    <string name="day">Day 14</string>
+    <string name="main_temperature">16*</string>
+    <string name="feels_like">Feels like</string>
+    <string name="weather_type">Drizzle</string>
+    <string name="default_numbers">100</string>
+    <string name="pressure">Pressure</string>
+    <string name="speed">Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather_app_background">Weather app background</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="temperature_in_fahrenheit">Temperature in fahrenheit</string>
+    <string name="sunset_image_desc">Sunset</string>
+    <string name="sunrise_image_desc">Sunrise</string>
+    <string name="wind_speed_image_desc">Wind Speed</string>
+    <string name="weather_icon_content_desc">Weather icon</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="state">State</string>
+</resources>
